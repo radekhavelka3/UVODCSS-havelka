@@ -1,0 +1,61 @@
+body{
+    background-image: url("image.jpeg");
+    background-size: cover;
+}
+
+.title1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: aqua;
+    text-align: center;
+    background-color: cadetblue;
+}
+
+.title2{
+    font-family: 'Courier New', Courier, monospace;
+    color: violet;
+    text-align: center;
+    background-color: black;
+}
+
+.title3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: teal;
+    background-color: antiquewhite;
+}
+
+.odrazka1{
+    list-style: upper-roman;
+    color: rgb(71, 234, 255);
+    font-size: larger;
+}
+
+.odrazka2{
+    list-style: upper-roman;
+    color:rgb(9, 255, 0);
+    font-size: larger;
+}
+
+.odrazka3{
+    list-style: upper-roman;
+    color:gold;
+    font-size: larger;
+}
+
+.odrazka4{
+    list-style: circle;
+    color:white;
+    font-size: larger;
+}
+
+.odrazka5{
+    list-style: square;
+    color:white;
+    font-size: larger;
+}
+
+.odrazka6{
+    list-style: armenian;
+    color:white;
+    font-size: larger;
+}
